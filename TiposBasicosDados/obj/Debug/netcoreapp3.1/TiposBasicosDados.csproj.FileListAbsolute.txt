@@ -1,0 +1,11 @@
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.exe
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.deps.json
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.runtimeconfig.json
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.runtimeconfig.dev.json
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.dll
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\bin\Debug\netcoreapp3.1\TiposBasicosDados.pdb
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\obj\Debug\netcoreapp3.1\TiposBasicosDados.csprojAssemblyReference.cache
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\obj\Debug\netcoreapp3.1\TiposBasicosDados.AssemblyInfoInputs.cache
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\obj\Debug\netcoreapp3.1\TiposBasicosDados.AssemblyInfo.cs
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\obj\Debug\netcoreapp3.1\TiposBasicosDados.dll
+C:\Temp\TipoBasicoDados\TiposBasicosDados\TiposBasicosDados\obj\Debug\netcoreapp3.1\TiposBasicosDados.pdb
